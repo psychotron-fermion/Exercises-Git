@@ -13,7 +13,7 @@ var b = c.filter(function (a) {
 
 // console.log(c);
 
-let arr = [1, 2, 3, 4, 5, 6];
+let arr = [1, 2, 3, 4, 5, 6, 8];
 
 let arr2 = arr.filter(function (a) {
   console.log(a * 2);
