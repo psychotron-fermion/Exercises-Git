@@ -5,7 +5,7 @@ var b = c.filter(function (a) {
   return (a % 2) - 1;
 });
 
-console.log(b);
+// console.log(b);
 
 // var d = 3;
 
@@ -13,7 +13,7 @@ console.log(b);
 
 // console.log(c);
 
-let arr = [1, 2, 3, 4];
+let arr = [1, 2, 3, 4, 5, 6];
 
 let arr2 = arr.filter(function (a) {
   console.log(a * 2);
